@@ -1,3 +1,4 @@
 ini fitur 2
 update fitur 2
 tambah perubahan lagi
+update fitur 2.2
